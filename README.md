@@ -13,7 +13,7 @@ Asp-Net-Core-REST-API-with-MVC
 ## Languages & Tools
 
 - [x] C#
-- [x] .Net(5)
+- [x] .Net(9)
 - [x] RestAPI
 - [x] Dependency Injection
 - [x] Entityframework Core
